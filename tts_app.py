@@ -11,7 +11,7 @@ from google.genai import types
 st.set_page_config(page_title="Navigation Assistant", layout="wide")
 st.title("Smart Navigation Guidance")
 
-client = genai.Client(api_key="AIzaSyB9VY710U-PVkH8IqOnTnM-2UgCkrJoWqM")
+client = genai.Client(api_key="API KEY")
 
 # Placeholders for video and instruction
 video_placeholder = st.empty()
