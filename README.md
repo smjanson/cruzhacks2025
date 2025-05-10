@@ -54,14 +54,14 @@ Our goals is that EchoRoute will be more than a project, and more a step toward 
 ## How to run EchoRoute
 **Clone the repository**
    ```bash
-   git clone git@github.com:smjanson/cruzhacks2025.git
-   cd cruzhacks2025
+   $ git clone git@github.com:smjanson/cruzhacks2025.git
+   $ cd cruzhacks2025
    ```
 **Instal Streamlit**
    ``` bash
-   pip install streamlit
+   $ pip install streamlit
    ```
 **Run the app**
    ```bash
-   streamlit run app.py
+   $ streamlit run app.py
    ```
