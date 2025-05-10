@@ -50,3 +50,18 @@ We also learned how much precision and timing matter when safety is involved. It
 * Connecting to GPS: integrating our project with location to have large-scale direction
 
 Our goals is that EchoRoute will be more than a project, and more a step toward a world in which AI actively amplifies independence, mobility, and safety for everyone. 
+
+## How to run EchoRoute
+**Clone the repository**
+   ```bash
+   git clone git@github.com:smjanson/cruzhacks2025.git
+   cd cruzhacks2025
+   ```
+**Instal Streamlit**
+   ``` bash
+   pip install streamlit
+   ```
+**Run the app**
+   ```bash
+   streamlit run app.py
+   ```
